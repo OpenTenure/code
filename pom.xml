@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.sola</groupId>
-    <artifactId>sola-main</artifactId>
-    <version>1503a</version>
+    <groupId>org.sola.cs</groupId>
+    <artifactId>sola-cs-main</artifactId>
+    <version>1504a</version>
     <packaging>pom</packaging>
-    <name>Main POM</name>
+    <name>Main CS POM</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Test coverage details are obtained from Clover so use 
@@ -18,7 +18,6 @@
 
     <modules>
         <module>services</module>
-        <module>clients</module>
     </modules>
     <!-- Configure common repositories available to all projects -->
     <repositories>
