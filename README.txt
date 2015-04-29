@@ -3,7 +3,7 @@ software system that aims to make computerised cadastre and
 registration systems more affordable and more sustainable in developing
 countries. For more information refer to www.flossola.org. 
 
-SOLA Community Server uses 10 Git repositories for managing its code base. These
+SOLA Community Server uses 6 Git repositories for managing its code base. These
 repositories are:
 
 1) code      - This repository. Contains the Main POM file and
