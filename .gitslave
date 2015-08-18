@@ -3,3 +3,4 @@
 "../services" "services"
 "../boundary" "services/boundary"
 "../database" "../database"
+"../reports" "../reports"
