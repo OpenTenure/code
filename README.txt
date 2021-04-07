@@ -18,14 +18,14 @@ repositories are:
 4) boundary  - Contains the Web Service Boundary projects. Attached as
                the services/boundary subdirectory of the code
                repository. 
-5) services  - Conatins the EJB and common service projects. Attached
+5) services  - Contains the EJB and common service projects. Attached
                as the services subdirectory of the code repository.
 6) database_sola - Contains the SOLA Community Server database scripts. Attached relative
                to the code repository in the ../database_sola directory.
 
 Each repository can be managed independently, although when a change
 spans more than one repository, ensuring the changes remain
-synchronized across the repositories can be difficult. Also tasks such
+synchronised across the repositories can be difficult. Also tasks such
 as pushing and pulling from GitHub can be extremely repetitive as they
 may need to be done up to 10 times (once for each repository). Git does
 not provide any really good tools for managing multiple repositories as
