@@ -4,10 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.sola.cs</groupId>
     <artifactId>sola-cs-main</artifactId>
-    <version>2020a</version>
+    <version>2024a</version>
     <packaging>pom</packaging>
     <name>Main CS POM</name>
     <properties>
+        <mybatis.version>3.5.6</mybatis.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Test coverage details are obtained from Clover so use 
              Sonar for static code analysis only. Also configure location of 
